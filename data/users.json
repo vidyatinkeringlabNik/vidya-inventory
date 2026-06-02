@@ -10,7 +10,7 @@
     },
     {
       "username": "subadmin",
-      "passwordHash": "3a107e5b0a3e7fbc1af9793f43d27c7b6f37fe50e8c6eca96e0efa5d48c4dc44",
+      "passwordHash": "fc5f874482bca66f0f366b93a9aaaef50f380ed44b4dc32b52aec547ab881432",
       "role": "subadmin",
       "displayName": "Sub Administrator",
       "avatar": "S",
@@ -58,7 +58,7 @@
     },
     {
       "username": "dbs",
-      "passwordHash": "7f4c3a8e2d1b9f6e5c0a4d7b2e8f1c3a6d9e0b4f7c2a5d8e1b6c9f3a0d4e7b",
+      "passwordHash": "b6d4c98df85f4e3f3960d94db628314aa2a4adc036046f76044b42bc6f92099e",
       "role": "school",
       "displayName": "DBS School",
       "avatar": "B",

@@ -10,16 +10,16 @@ const APP_CONFIG = {
 
   /* ── Telegram Bot (replace with your values) ── */
   telegram: {
-    botToken: 'YOUR_BOT_TOKEN_HERE',
-    chatId: 'YOUR_CHAT_ID_HERE',
+    botToken: '8341958686:AAHnTrqssusIY255LxEXuAYWBg0ciXcI0o8',
+    chatId: '8491693466',
     enabled: true   // set false to disable Telegram push
   },
 
   /* ── Local Storage keys ── */
   storage: {
     session: 'vidya_session',
-    audits:  'vidya_audits',
-    draft:   'vidya_draft'
+    audits: 'vidya_audits',
+    draft: 'vidya_draft'
   },
 
   /* ── Item master files ── */
@@ -41,13 +41,13 @@ const APP_CONFIG = {
   /* ── Status colors ── */
   statusColors: {
     'Well Present': '#2a9d8f',
-    'Broken':       '#f4a261',
-    'Missing':      '#e63946'
+    'Broken': '#f4a261',
+    'Missing': '#e63946'
   },
 
   statusIcons: {
     'Well Present': 'fa-circle-check',
-    'Broken':       'fa-circle-exclamation',
-    'Missing':      'fa-circle-xmark'
+    'Broken': 'fa-circle-exclamation',
+    'Missing': 'fa-circle-xmark'
   }
 };
