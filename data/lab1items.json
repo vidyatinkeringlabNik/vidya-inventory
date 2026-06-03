@@ -1,102 +1,232 @@
 [
   {
-    "code": "STEM-001",
-    "name": "First-Aid Kit",
-    "img": "./data/images/lab/first_aid_kit.jpg",
-    "category": "Safety",
+    "code": "Quar-001",
+    "name": "Quarky Robot",
+    "img": "./data/images/lab/quarky_robot.jpg",
+    "category": "Robotics Component",
     "domain": "STEM",
-    "price": 867,
+    "price": 2000,
+    "quantity": 1,
+    "description": "Quarky robotic core component unit."
+  },
+  {
+    "code": "Quar-002",
+    "name": "Blue Arena",
+    "img": "./data/images/lab/blue_arena.jpg",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 20,
+    "quantity": 1,
+    "description": ""
+  },
+  {
+    "code": "Quar-003",
+    "name": "Green Arena",
+    "img": "./data/images/lab/green_arena.jpg",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 20,
+    "quantity": 1,
+    "description": ""
+  },
+  {
+    "code": "Quar-004",
+    "name": "Getting Started + Safety Guide",
+    "img": "./data/images/lab/getting_started.png",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 0,
+    "quantity": 1,
+    "description": ""
+  },
+  {
+    "code": "Quar-005",
+    "name": "AI Recognition Cards",
+    "img": "./data/images/lab/ai_recognition_cards.jpg",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 10,
+    "quantity": 10,
+    "description": ""
+  },
+  {
+    "code": "Quar-006",
+    "name": "Robot Face Cutouts",
+    "img": "./data/images/lab/robot_face.jpg",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 20,
+    "quantity": 8,
+    "description": ""
+  },
+  {
+    "code": "Quar-007",
+    "name": "QR Code Sticker",
+    "img": "",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 10,
+    "quantity": 1,
+    "description": ""
+  },
+  {
+    "code": "Quar-008",
+    "name": "USB C Cable",
+    "img": "./data/images/lab/usb_c_cable.jpg",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 250,
+    "quantity": 1,
+    "description": ""
+  },
+  {
+    "code": "Quar-009",
+    "name": "Plastic Box",
+    "img": "./data/images/lab/plastic_box.jpg",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 100,
     "quantity": 2,
-    "description": "Standard first-aid kit with bandages, antiseptic, and basic medical supplies."
+    "description": ""
   },
   {
-    "code": "STEM-002",
-    "name": "Safety Goggles",
-    "img": "./data/images/lab/safety_goggles.jpg",
-    "category": "Safety",
+    "code": "Quar-010",
+    "name": "Servo Motor",
+    "img": "./data/images/lab/servo_motor.jpg",
+    "category": "Robotics Component",
     "domain": "STEM",
-    "price": 4739,
-    "quantity": 30,
-    "description": "Anti-fog safety goggles for lab protection."
+    "price": 350,
+    "quantity": 2,
+    "description": ""
   },
   {
-    "code": "STEM-003",
-    "name": "Arduino Uno R3",
-    "img": "./data/images/lab/arduino_uno.jpg",
-    "category": "Electronics",
+    "code": "Quar-011",
+    "name": "Battery",
+    "img": "./data/images/lab/battery.jpg",
+    "category": "Robotics Component",
     "domain": "STEM",
-    "price": 599,
-    "quantity": 15,
-    "description": "Microcontroller board based on ATmega328P for prototyping."
+    "price": 300,
+    "quantity": 1,
+    "description": ""
   },
   {
-    "code": "STEM-004",
-    "name": "Breadboard (830 tie-points)",
-    "img": "./data/images/lab/breadboard.jpg",
-    "category": "Electronics",
+    "code": "Quar-012",
+    "name": "Ultrasonic Sensor",
+    "img": "./data/images/lab/sensor.jpg",
+    "category": "Robotics Component",
     "domain": "STEM",
     "price": 120,
-    "quantity": 25,
-    "description": "Solderless breadboard for circuit prototyping."
+    "quantity": 1,
+    "description": ""
   },
   {
-    "code": "STEM-005",
-    "name": "Multimeter Digital",
-    "img": "./data/images/lab/multimeter.jpg",
-    "category": "Electronics",
+    "code": "Quar-013",
+    "name": "Motor",
+    "img": "./data/images/lab/motor.jpg",
+    "category": "Robotics Component",
     "domain": "STEM",
-    "price": 850,
+    "price": 300,
+    "quantity": 2,
+    "description": ""
+  },
+  {
+    "code": "Quar-014",
+    "name": "Wheel",
+    "img": "./data/images/lab/wheel.jpg",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 100,
+    "quantity": 2,
+    "description": ""
+  },
+  {
+    "code": "Quar-015",
+    "name": "Motor Mount",
+    "img": "./data/images/lab/motor_mount.jpg",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 50,
+    "quantity": 2,
+    "description": ""
+  },
+  {
+    "code": "Quar-016",
+    "name": "Spacers",
+    "img": "./data/images/lab/spacers.jpg",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 20,
     "quantity": 10,
-    "description": "Digital multimeter for measuring voltage, current, and resistance."
+    "description": ""
   },
   {
-    "code": "STEM-006",
-    "name": "Soldering Iron Kit",
-    "img": "./data/images/lab/soldering_iron.jpg",
-    "category": "Tools",
+    "code": "Quar-017",
+    "name": "Pin Jumper Cable",
+    "img": "./data/images/lab/pin_jumper.jpg",
+    "category": "Robotics Component",
     "domain": "STEM",
-    "price": 450,
-    "quantity": 8,
-    "description": "25W soldering iron with stand and solder wire."
+    "price": 10,
+    "quantity": 4,
+    "description": ""
   },
   {
-    "code": "STEM-007",
-    "name": "Raspberry Pi 4 (4GB)",
-    "img": "./data/images/lab/raspberry_pi.jpg",
-    "category": "Computing",
+    "code": "Quar-018",
+    "name": "Screwdriver",
+    "img": "./data/images/lab/screwdriver.jpg",
+    "category": "Robotics Component",
     "domain": "STEM",
-    "price": 4500,
-    "quantity": 5,
-    "description": "Single-board computer for IoT and programming projects."
+    "price": 50,
+    "quantity": 1,
+    "description": ""
   },
   {
-    "code": "STEM-008",
-    "name": "Jumper Wire Set (M-M, M-F, F-F)",
-    "img": "./data/images/lab/jumper_wires.jpg",
-    "category": "Electronics",
+    "code": "Quar-019",
+    "name": "Motor Connector",
+    "img": "",
+    "category": "Robotics Component",
     "domain": "STEM",
-    "price": 99,
-    "quantity": 20,
-    "description": "120-piece jumper wire assortment for breadboard use."
+    "price": 50,
+    "quantity": 2,
+    "description": ""
   },
   {
-    "code": "STEM-009",
-    "name": "LED Assortment Pack",
-    "img": "./data/images/lab/led_pack.jpg",
-    "category": "Electronics",
+    "code": "Quar-020",
+    "name": "Purple Plastic Set",
+    "img": "./data/images/lab/purple_plastic.jpg",
+    "category": "Robotics Component",
     "domain": "STEM",
     "price": 150,
-    "quantity": 10,
-    "description": "100-piece LED assortment in multiple colours."
+    "quantity": 1,
+    "description": ""
   },
   {
-    "code": "SFTY-001",
-    "name": "Fire Extinguisher (CO2 2kg)",
-    "img": "./data/images/lab/fire_extinguisher.jpg",
-    "category": "Safety",
-    "domain": "SFTY",
-    "price": 1500,
-    "quantity": 2,
-    "description": "CO2 fire extinguisher for electrical fires in lab environments."
+    "code": "Quar-021",
+    "name": "Green Plastic Set",
+    "img": "./data/images/lab/green_plastic.jpg",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 150,
+    "quantity": 1,
+    "description": ""
+  },
+  {
+    "code": "Quar-022",
+    "name": "Blue Plastic Set",
+    "img": "./data/images/lab/blue_plastic.jpg",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 150,
+    "quantity": 1,
+    "description": ""
+  },
+  {
+    "code": "Quar-023",
+    "name": "Fastener Set",
+    "img": "./data/images/lab/fastener.jpg",
+    "category": "Robotics Component",
+    "domain": "STEM",
+    "price": 50,
+    "quantity": 1,
+    "description": ""
   }
 ]
